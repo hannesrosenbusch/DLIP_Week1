@@ -5,7 +5,7 @@
 
 
 An introduction to Python for R users can be seen here: <br>
-youtube.com/playlist?list=PLq0cz82QvYapppmpXPYgS76VbHHKRIgbk
+[Python for R users](youtube.com/playlist?list=PLq0cz82QvYapppmpXPYgS76VbHHKRIgbk)
 
 ## Step 1: 
 -log into kaggle <br>
