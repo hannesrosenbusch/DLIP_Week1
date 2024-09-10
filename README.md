@@ -7,9 +7,9 @@
 An introduction to Python for R users can be seen here: https://youtube.com/playlist?list=PLq0cz82QvYapppmpXPYgS76VbHHKRIgbk&feature=shared
 
 ## Step 1: 
--log into kaggle
--make a new notebook
--run the following code in a python cell
+-log into kaggle <br>
+-make a new notebook <br>
+-run the following code in a python cell <br>
 ```python
 !git clone https://github.com/hannesrosenbusch/DLIP_Week1.git
 ```
